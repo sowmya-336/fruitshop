@@ -1,0 +1,22 @@
+body{
+    background-image: url(img1.jpg);
+}
+h1{
+    text-shadow: 2px 2px #ff0000;
+}
+
+#item{
+    background-color: rgb(157, 161, 153);
+    border-radius: 40px;
+}
+#quantity{
+    background-color: rgb(100, 237, 111);
+    border-radius: 40px;
+}
+#add{
+    background-color: black;
+    color: red;
+}
+.Submit{
+     background-color: rgb(135, 160, 45);
+}
